@@ -1,1 +1,6 @@
-# welcome to my portfolio site!
+---
+layout: default
+title: Home
+---
+
+# I'm Aryan Taywade

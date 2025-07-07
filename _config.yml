@@ -1,0 +1,9 @@
+title: Aryan Taywade
+description: Portfolio website built using a Midnight theme
+url: "https://KR-1234.github.io"
+baseurl: ""
+
+remote_theme: pages-themes/midnight@v0.2.0
+
+plugins:
+ - jekyll-remote-theme
